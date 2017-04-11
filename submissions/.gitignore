@@ -1,0 +1,7 @@
+*/*.json
+*/*.jar
+*/*.out
+*.json
+*.jar
+*.out
+*/*.class
